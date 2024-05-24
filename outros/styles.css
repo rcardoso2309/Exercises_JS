@@ -1,0 +1,7 @@
+
+.container {
+    width: 300px; /* Largura da div */
+    height: 200px; /* Altura da div */
+    background-color: #ffcc00; /* Cor de fundo amarela */
+    padding: 20px; /* Espaçamento interno */
+  }
